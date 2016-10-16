@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg width="137px" height="147px" viewBox="0 0 137 147">
+<defs>
+<path id="obj" fill="#ffffff" stroke="#000000" stroke-width="4" d="
+M 5 15 a 10 -10 0 0 1 10 -10 h 25 a 10 10 0 0 1 10 10 v 120 a -10 10 0 0 1 -10 10 h -25 a -10 -10 0 0 1 -10 -10 v -120 z"
+/>
+</defs>
+<use x="0" y="0" xlink:href="#obj"/>
+<use x="80" y="0" xlink:href="#obj"/>
+</svg>
